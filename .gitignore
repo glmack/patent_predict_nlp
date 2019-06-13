@@ -1,6 +1,9 @@
-# Lee edits
+# Lee edits to ignore .csv and .tsv files
 *.csv
 *.tsv
+
+# Lee edits to ignore data/ directory
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
